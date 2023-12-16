@@ -1,0 +1,1 @@
+export const serverURL = 'http://localhost:https://mediabackend-6gj5.onrender.com'
